@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elegoo.Lesson.2.Blink", "Elegoo.Lesson.2.Blink\Elegoo.Lesson.2.Blink.csproj", "{4A08E7C9-CC9E-4117-B50B-5362B0437633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A08E7C9-CC9E-4117-B50B-5362B0437633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A08E7C9-CC9E-4117-B50B-5362B0437633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A08E7C9-CC9E-4117-B50B-5362B0437633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A08E7C9-CC9E-4117-B50B-5362B0437633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
